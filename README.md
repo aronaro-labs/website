@@ -25,18 +25,32 @@ This repository contains assets, notes, and implementation references for the Ar
 
 ---
 
+## What’s inside
+
+- Page structure notes and content outlines
+- Copy drafts and messaging iterations
+- SEO + performance baseline checklists
+- Screenshots / mockups used during build
+- Structured data (schema) snippets where relevant
+- Deployment notes (platform / hosting / DNS)
+
+---
+
 ## Links
 
 - Live site: https://aronarolabs.co.uk  
-- LinkedIn: https://www.linkedin.com/company/aronaro-labs-ltd/
+- LinkedIn: https://www.linkedin.com/company/aronaro-labs-ltd/  
+
+---
+
+## Socials (keep this updated)
+
+- YouTube: https://www.youtube.com/@ARONAROLABS  
+- X: https://x.com/aronarolabs  
+- GitHub Org: https://github.com/aronaro-labs  
 
 ---
 
 ## Notes
 
-This repo may contain:
-- copy drafts
-- layout notes
-- screenshots / mockups
-- structured data (schema) snippets
-
+This repo is used as a reference/operations space. It may contain planning notes and assets rather than full production source code.
